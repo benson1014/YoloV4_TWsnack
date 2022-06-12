@@ -1,0 +1,2 @@
+Rice_with_Shredded_Chicken 14 109 196 230
+Rice_with_Shredded_Chicken 25 15 158 80

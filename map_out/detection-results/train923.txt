@@ -1,0 +1,4 @@
+Rice_with_Shredded_Chicken 0.4371 59 100 613 483
+Rice_with_Shredded_Chicken 0.0016 172 156 490 457
+migao 0.0021 16 100 588 481
+wagui 0.0050 299 45 452 136

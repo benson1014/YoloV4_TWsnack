@@ -1,0 +1,7 @@
+Kongrou 0.0016 352 395 611 634
+Rice_with_Shredded_Chicken 0.5379 352 395 611 634
+Rice_with_Shredded_Chicken 0.3717 22 272 323 565
+Rice_with_Shredded_Chicken 0.0015 242 344 706 693
+migao 0.0067 350 82 546 295
+migao 0.0011 22 272 323 565
+migao 0.0010 336 391 597 638

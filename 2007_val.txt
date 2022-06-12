@@ -1,0 +1,1722 @@
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2124.jpg 42,27,218,171,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test445.jpg 69,53,228,159,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1001.jpg 44,22,409,345,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1406.jpg 234,129,554,386,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1501.jpg 79,62,223,167,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1382.jpg 6,515,234,647,4 43,750,648,1200,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai160.jpg 208,99,823,401,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1068.jpg 320,389,902,891,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1648.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1494.jpg 73,46,99,59,4 102,54,129,68,4 138,40,167,51,4 139,56,166,69,4 168,50,197,64,4 184,64,223,82,4 140,70,180,88,4 178,85,222,112,4 137,99,189,134,4 97,78,137,105,4 84,112,130,137,4 77,69,106,87,4 45,56,82,76,4 30,76,70,97,4 38,99,86,126,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1049.jpg 123,95,694,479,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te592.jpg 40,39,204,120,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai886.jpg 110,123,606,436,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1924.jpg 83,4,253,152,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra931.jpg 129,94,504,326,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1071.jpg 141,105,726,467,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te351.jpg 101,33,259,139,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1820.jpg 350,243,1204,681,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1221.jpg 103,55,225,149,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test12.jpg 155,109,559,442,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t16.jpg 167,60,746,448,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test813.jpg 52,63,832,565,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes538.jpg 77,48,250,174,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1834.jpg 3,43,221,176,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai944.jpg 93,53,168,113,2 151,114,225,186,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1751.jpg 35,615,905,1123,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0758.jpg 94,57,243,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra2072.jpg 78,70,259,194,4 1,3,99,84,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test323.jpg 53,20,210,160,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0998.jpg 34,6,254,184,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes549.jpg 85,50,229,143,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test368.jpg 97,53,254,124,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1482.jpg 34,37,224,176,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train306.jpg 40,26,224,137,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2110.jpg 15,20,242,146,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra52.jpg 294,42,710,462,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1322.jpg 556,338,966,723,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1565.jpg 62,37,257,151,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai793.jpg 243,167,703,496,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0044.jpg 131,111,714,629,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train382.jpg 60,18,226,156,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr968.jpg 27,51,172,173,2 124,1,249,50,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2486.jpg 344,45,711,405,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra763.jpg 36,44,251,168,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra429.jpg 29,8,234,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes803.jpg 55,144,1137,1084,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1062.jpg 95,71,743,565,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1892.jpg 48,31,211,167,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1125.jpg 108,127,798,539,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai845.jpg 50,168,336,410,2 277,8,519,183,2 352,188,667,455,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1426.jpg 43,39,227,164,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1680.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1069.jpg 111,111,961,646,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1112.jpg 563,121,1138,581,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1916.jpg 42,13,232,161,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t200.jpg 142,238,477,674,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te831.jpg 45,20,234,174,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra8.jpg 93,9,695,532,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1324.jpg 188,7,502,383,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai664.jpg 69,48,184,153,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train814.jpg 233,13,964,577,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra100.jpg 137,52,775,444,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1345.jpg 15,90,157,182,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1388.jpg 179,148,424,364,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr978.jpg 24,40,182,128,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1441.jpg 27,39,64,64,4 5,68,35,100,4 2,109,33,141,4 3,151,40,190,4 32,184,77,227,4 72,144,109,180,4 37,105,77,144,4 56,64,90,98,4 67,24,99,53,4 105,22,141,50,4 96,55,139,87,4 142,30,178,63,4 84,94,133,131,4 116,131,164,169,4 85,194,134,244,4 143,171,194,227,4 168,61,194,93,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test206.jpg 42,2,214,182,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test550.jpg 51,61,230,166,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test377.jpg 47,50,260,162,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1648.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1182.jpg 130,39,212,114,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1915.jpg 31,76,163,172,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr961.jpg 13,27,241,186,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1743.jpg 432,647,1075,1364,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai881.jpg 135,303,587,673,2 546,173,900,477,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr774.jpg 22,25,222,148,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai37.jpg 117,144,492,381,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1071.jpg 141,105,726,467,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr809.jpg 302,7,697,409,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1601.jpg 52,66,523,397,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1779.jpg 603,66,971,554,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1882.jpg 87,24,241,162,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra627.jpg 60,28,233,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1732.jpg 567,343,1611,1261,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1905.jpg 14,109,196,230,2 25,15,158,80,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1410.jpg 125,55,542,431,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te988.jpg 30,87,87,137,2 87,120,141,173,2 153,113,221,178,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1397.jpg 207,282,604,576,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1997.jpg 49,163,278,428,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test209.jpg 108,36,755,532,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes2077.jpg 3,46,223,181,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1013.jpg 301,275,735,611,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1159.jpg 5,4,1098,734,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes338.jpg 11,42,201,194,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2371.jpg 20,16,242,169,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1814.jpg 534,192,1248,787,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t38.jpg 494,200,1291,766,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai198.jpg 254,113,785,454,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra0.jpg 185,56,628,451,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes2061.jpg 4,51,174,217,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1323.jpg 19,37,196,175,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1540.jpg 70,1,274,154,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr513.jpg 52,24,228,145,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1912.jpg 42,88,194,197,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1458.jpg 20,16,227,163,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2194.jpg 379,164,890,874,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai753.jpg 24,68,190,175,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1698.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2092.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test528.jpg 52,62,233,172,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1770.jpg 194,248,1329,640,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train105.jpg 298,1,1084,707,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1095.jpg 143,129,892,736,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1743.jpg 432,647,1075,1364,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1791.jpg 411,698,992,1186,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te427.jpg 8,7,216,137,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te2074.jpg 15,49,181,172,4 102,3,249,56,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1377.jpg 480,297,1396,1139,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1102.jpg 33,100,581,566,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai463.jpg 46,52,227,151,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1119.jpg 417,265,1473,962,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train909.jpg 13,35,613,528,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1947.jpg 279,174,606,509,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1867.jpg 80,47,264,163,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1292.jpg 127,108,469,388,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test165.jpg 110,105,449,323,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2474.jpg 214,124,536,500,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1534.jpg 73,30,256,155,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1548.jpg 32,21,212,155,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0307.jpg 102,93,208,166,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai338.jpg 11,42,201,194,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1868.jpg 42,52,221,163,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t440.jpg 74,40,235,143,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0985.jpg 33,56,182,151,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train731.jpg 50,57,165,188,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1990.jpg 323,1,523,184,3 532,128,742,338,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes652.jpg 73,50,210,145,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train251.jpg 150,45,503,268,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t629.jpg 43,39,229,150,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1921.jpg 26,23,228,170,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra442.jpg 26,63,206,141,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1889.jpg 5,14,217,199,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1300.jpg 354,383,1395,1029,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1517.jpg 118,59,172,92,4 107,96,210,163,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0816.jpg 310,231,613,510,2 7,273,299,510,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test750.jpg 88,23,206,110,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test475.jpg 33,35,281,168,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1497.jpg 36,87,194,179,4 105,9,242,78,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1042.jpg 168,74,637,467,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1476.jpg 15,33,266,183,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1003.jpg 47,72,178,163,2 80,5,172,64,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train191.jpg 118,227,551,671,0 598,229,1061,690,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0242.jpg 227,99,549,238,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr696.jpg 37,35,259,163,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2410.jpg 156,154,572,588,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1828.jpg 42,10,275,181,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai464.jpg 43,11,225,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra947.jpg 26,12,276,156,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1009.jpg 42,30,566,358,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2100.jpg 62,15,212,110,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai99.jpg 30,90,444,337,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test867.jpg 221,124,759,619,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1029.jpg 98,202,573,580,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0682.jpg 127,31,288,112,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1770.jpg 194,248,1329,640,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1800.jpg 431,31,866,872,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai75.jpg 494,219,1175,827,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai714.jpg 44,12,195,137,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1117.jpg 114,196,888,740,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1332.jpg 3,24,257,205,4 200,196,635,456,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2106.jpg 567,343,1611,1261,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr857.jpg 6,563,827,1308,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1310.jpg 315,142,429,254,3 476,199,597,327,3 351,68,437,134,3 250,10,322,62,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra806.jpg 26,1,298,162,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t433.jpg 42,25,260,180,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t2087.jpg 12,44,173,140,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1756.jpg 71,691,814,1046,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1818.jpg 413,202,1010,587,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te2101.jpg 69,43,234,169,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1784.jpg 34,615,874,1115,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test987.jpg 47,51,217,158,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra539.jpg 25,13,174,186,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te890.jpg 101,42,800,595,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0480.jpg 51,35,253,168,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes316.jpg 37,9,253,163,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test77.jpg 357,118,937,488,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1610.jpg 105,67,251,181,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai72.jpg 109,116,571,369,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1933.jpg 172,132,687,411,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1263.jpg 19,37,196,175,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1815.jpg 357,479,1206,940,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0764.jpg 7,1,216,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1078.jpg 153,124,782,596,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes337.jpg 34,7,227,154,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1924.jpg 83,4,253,152,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai683.jpg 49,41,137,120,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1433.jpg 31,22,255,176,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1785.jpg 78,871,1046,1317,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1118.jpg 77,134,845,642,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1775.jpg 758,224,1105,838,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te330.jpg 21,38,192,199,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0342.jpg 89,56,232,153,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra51.jpg 62,48,242,137,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai660.jpg 83,42,290,157,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1193.jpg 53,26,216,161,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1135.jpg 368,207,1787,1372,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test954.jpg 43,52,216,184,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0134.jpg 196,326,685,777,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1307.jpg 202,66,785,529,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1479.jpg 108,114,180,154,4 88,166,180,250,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te218.jpg 33,209,391,533,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t992.jpg 40,260,450,592,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1523.jpg 109,41,260,150,4 1,5,113,108,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t2072.jpg 78,70,259,194,4 1,3,99,84,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai163.jpg 153,115,286,321,0 550,218,694,437,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te216.jpg 52,58,466,403,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1732.jpg 567,343,1611,1261,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai707.jpg 78,37,198,112,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2106.jpg 46,26,247,154,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1685.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1039.jpg 98,71,754,514,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train16.jpg 167,60,746,448,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te220.jpg 183,7,540,221,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2163.jpg 83,118,508,576,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0131.jpg 167,67,860,425,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1455.jpg 36,14,210,158,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr509.jpg 65,42,211,144,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1322.jpg 556,338,966,723,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test193.jpg 344,36,825,594,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1284.jpg 66,5,134,66,3 147,7,223,79,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1497.jpg 36,87,194,179,4 105,9,242,78,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1464.jpg 96,80,220,150,4 107,6,193,61,4 3,25,91,82,4 12,94,85,161,4 234,56,275,106,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train44.jpg 264,103,832,564,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes2088.jpg 62,25,268,164,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2071.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1116.jpg 276,297,580,574,3 97,69,332,259,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1175.jpg 72,43,200,161,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t265.jpg 281,135,717,434,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te2078.jpg 2,21,121,100,4 59,108,192,202,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2050.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1104.jpg 199,29,818,565,3 864,4,1200,354,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2077.jpg 3,46,223,181,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0467.jpg 18,20,234,181,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te389.jpg 66,52,226,143,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1099.jpg 46,428,580,926,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train124.jpg 100,116,403,372,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes705.jpg 41,15,223,125,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai371.jpg 54,28,251,153,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0860.jpg 5,182,1000,883,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai305.jpg 102,93,208,166,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train431.jpg 29,46,205,194,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test759.jpg 22,21,242,154,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra2033.jpg 16,84,109,147,4 109,102,209,173,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te433.jpg 42,25,260,180,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes563.jpg 163,31,246,97,1 51,99,192,185,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te2084.jpg 90,38,260,140,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1650.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train213.jpg 1695,521,3956,2475,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2017.jpg 91,107,540,519,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test660.jpg 83,42,290,157,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1161.jpg 29,44,1681,1194,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai137.jpg 36,14,262,172,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1009.jpg 42,30,566,358,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0532.jpg 56,36,236,172,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test547.jpg 19,27,124,146,1 145,34,260,155,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2097.jpg 72,61,237,185,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t366.jpg 46,35,254,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te523.jpg 45,27,250,147,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai585.jpg 28,22,238,172,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1764.jpg 260,508,838,853,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1008.jpg 97,123,497,411,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes315.jpg 45,21,275,181,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1903.jpg 30,29,230,175,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra332.jpg 51,19,252,182,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1828.jpg 42,10,275,181,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai385.jpg 24,34,244,162,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai768.jpg 24,14,222,180,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1259.jpg 1,37,75,99,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te909.jpg 13,35,613,528,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai386.jpg 32,23,232,176,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1736.jpg 51,34,220,162,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr64.jpg 218,59,580,312,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train68.jpg 80,82,518,353,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1460.jpg 24,50,138,159,4 163,56,291,157,4 150,2,190,65,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test636.jpg 61,27,220,160,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1196.jpg 74,46,210,154,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1163.jpg 1,240,214,459,3 253,328,532,566,3 570,254,847,520,3 1028,212,1184,305,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1810.jpg 355,472,869,801,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1555.jpg 62,47,222,157,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train23.jpg 60,198,433,471,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2033.jpg 16,84,109,147,4 109,102,209,173,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1521.jpg 1,1,275,179,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1969.jpg 187,94,642,528,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1791.jpg 411,698,992,1186,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te259.jpg 618,272,1452,803,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test452.jpg 66,18,255,162,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te234.jpg 57,43,547,377,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te152.jpg 892,511,2532,1676,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1880.jpg 67,4,255,170,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra56.jpg 265,53,543,275,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train968.jpg 27,51,172,173,2 124,1,249,50,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te992.jpg 40,260,450,592,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai804.jpg 227,126,876,586,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra716.jpg 73,18,275,137,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0760.jpg 23,22,221,188,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr103.jpg 201,102,724,648,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test103.jpg 201,102,724,648,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes71.jpg 57,48,558,420,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1395.jpg 66,17,282,213,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra67.jpg 145,34,458,259,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra340.jpg 89,56,232,153,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train387.jpg 36,36,240,156,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1076.jpg 309,115,947,623,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train166.jpg 77,107,202,192,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1091.jpg 111,82,830,674,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1685.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1012.jpg 114,133,849,619,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1516.jpg 54,52,228,154,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1830.jpg 53,25,275,183,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1849.jpg 78,62,244,163,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1813.jpg 78,389,829,831,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1534.jpg 73,30,256,155,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1704.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra236.jpg 357,129,829,504,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1026.jpg 225,299,510,553,3 675,126,1136,531,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1266.jpg 43,45,212,153,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2064.jpg 60,56,214,162,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1605.jpg 82,17,242,122,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1158.jpg 44,91,525,407,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test241.jpg 112,31,658,439,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai377.jpg 47,50,260,162,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te727.jpg 99,59,177,128,1 70,121,117,174,1 146,126,219,183,1 155,3,199,52,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2002.jpg 174,110,558,544,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1758.jpg 283,615,1022,1235,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes986.jpg 44,48,224,170,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train831.jpg 45,20,234,174,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1203.jpg 30,32,229,160,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t337.jpg 34,7,227,154,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1817.jpg 391,193,1032,605,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test424.jpg 60,87,180,170,1 166,69,269,141,1 87,15,162,72,1 1,28,78,102,1 190,3,272,54,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1582.jpg 62,59,220,154,4 129,12,267,68,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1571.jpg 76,34,261,153,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1190.jpg 5,21,152,140,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1707.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai395.jpg 41,44,228,157,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train115.jpg 334,217,808,538,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test895.jpg 41,60,509,375,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1346.jpg 126,36,273,160,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes16.jpg 167,60,746,448,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1211.jpg 77,45,492,377,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te483.jpg 115,37,259,157,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1265.jpg 60,56,207,145,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t939.jpg 208,1,326,112,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1435.jpg 204,125,835,559,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0378.jpg 49,33,257,139,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1104.jpg 199,29,818,565,3 864,4,1200,354,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1065.jpg 83,83,987,943,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1543.jpg 51,39,231,146,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1359.jpg 53,521,795,972,4 269,68,797,340,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t718.jpg 81,48,233,164,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1831.jpg 25,37,220,186,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test638.jpg 21,33,106,116,1 130,41,255,160,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2026.jpg 79,24,207,136,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t668.jpg 178,6,247,69,1 249,41,312,126,1 167,74,250,156,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1824.jpg 1843,775,4343,2446,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1600.jpg 42,87,407,343,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1726.jpg 109,75,933,639,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0239.jpg 292,336,937,706,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1563.jpg 23,5,91,36,4 13,42,93,94,4 38,104,146,171,4 156,120,275,183,4 131,57,227,109,4 89,11,177,54,4 178,3,275,45,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1846.jpg 45,27,223,166,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t135.jpg 177,62,464,331,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai44.jpg 264,103,832,564,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train732.jpg 87,21,192,134,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai532.jpg 100,47,221,150,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t259.jpg 618,272,1452,803,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2011.jpg 344,45,711,405,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1189.jpg 55,25,235,151,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1381.jpg 294,870,744,1141,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes92.jpg 68,81,520,402,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1356.jpg 63,67,859,609,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr189.jpg 134,44,458,224,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0151.jpg 150,95,424,303,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1732.jpg 567,343,1611,1261,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai337.jpg 34,7,227,154,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr760.jpg 31,35,224,161,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1594.jpg 73,30,256,155,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes633.jpg 24,24,282,154,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1217.jpg 141,63,785,497,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1130.jpg 373,243,1580,1148,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes747.jpg 40,29,220,138,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai184.jpg 109,181,548,472,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr109.jpg 492,652,1773,1633,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test606.jpg 119,83,221,163,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes654.jpg 22,14,207,162,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1358.jpg 1,622,726,933,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train770.jpg 53,27,230,149,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai784.jpg 39,85,870,675,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1396.jpg 177,126,385,314,4 402,59,594,210,4 68,1,272,107,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1662.jpg 89,143,342,282,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2106.jpg 46,26,247,154,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1265.jpg 23,20,270,139,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1847.jpg 52,22,274,181,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te302.jpg 35,47,240,175,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0244.jpg 67,2,417,204,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr257.jpg 251,171,701,452,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test814.jpg 233,13,964,577,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1738.jpg 122,692,465,1415,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai937.jpg 123,78,208,158,2 225,5,306,77,2 97,6,147,82,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1152.jpg 191,122,466,351,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr275.jpg 508,384,936,679,0 366,20,756,197,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes543.jpg 101,45,207,109,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1162.jpg 33,100,581,566,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1062.jpg 95,71,743,565,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test58.jpg 84,23,507,390,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1800.jpg 431,31,866,872,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1565.jpg 62,37,257,151,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1228.jpg 68,23,230,164,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te2107.jpg 34,47,202,151,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1054.jpg 331,204,813,602,3 732,87,1012,322,3 427,34,644,172,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t221.jpg 107,77,444,358,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1269.jpg 22,33,164,149,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1341.jpg 273,83,622,366,4 2,110,217,292,4 188,3,383,74,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra2095.jpg 19,16,237,178,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1348.jpg 250,136,398,250,4 183,296,338,444,4 380,288,534,438,4 486,184,639,303,4 412,77,560,178,4 317,18,440,103,4 178,18,308,110,4 57,78,207,177,4 58,178,230,307,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1411.jpg 110,106,247,231,4 273,112,418,236,4 439,101,585,228,4 39,1,170,77,4 1,86,88,224,4 5,240,149,374,4 173,249,320,400,4 347,256,495,397,4 361,3,501,94,4 189,1,347,99,4 511,242,600,389,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra958.jpg 7,20,222,195,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra354.jpg 40,49,217,173,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2167.jpg 83,872,1055,1303,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1270.jpg 16,1,255,184,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1193.jpg 53,26,216,161,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1610.jpg 105,67,251,181,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test924.jpg 7,130,206,299,2 216,71,404,236,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai766.jpg 111,57,228,124,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1396.jpg 12,19,555,410,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1707.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1698.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1071.jpg 141,105,726,467,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1632.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes90.jpg 81,24,523,377,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2159.jpg 34,615,874,1115,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1051.jpg 187,325,458,534,3 502,376,759,621,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test760.jpg 31,35,224,161,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1652.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test761.jpg 125,58,220,157,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes902.jpg 75,36,508,435,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr745.jpg 63,39,170,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test902.jpg 75,36,508,435,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test940.jpg 19,15,251,180,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te2038.jpg 14,19,227,148,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr995.jpg 157,148,491,384,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai968.jpg 27,51,172,173,2 124,1,249,50,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1152.jpg 191,122,466,351,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t2089.jpg 22,38,166,136,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train329.jpg 47,17,214,163,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t45.jpg 175,69,506,325,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1848.jpg 49,6,246,153,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra422.jpg 101,50,205,127,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1163.jpg 139,84,733,514,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1288.jpg 26,3,255,190,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai334.jpg 43,12,257,167,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr449.jpg 31,30,250,188,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0072.jpg 57,48,558,420,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1676.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1171.jpg 98,1,232,143,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te840.jpg 88,81,187,170,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0285.jpg 82,31,560,325,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1296.jpg 86,194,1168,901,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te390.jpg 98,45,252,143,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1059.jpg 73,285,368,541,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test904.jpg 383,161,909,594,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai814.jpg 233,13,964,577,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra197.jpg 28,15,247,119,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2029.jpg 88,21,237,119,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train407.jpg 88,52,266,165,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train840.jpg 88,81,187,170,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te758.jpg 23,22,221,188,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1711.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1864.jpg 37,52,215,202,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1287.jpg 52,31,223,161,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1581.jpg 1,1,275,179,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1282.jpg 52,44,267,175,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1437.jpg 9,77,192,208,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1233.jpg 92,57,231,185,3 1,11,79,71,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra564.jpg 1,79,144,201,1 97,11,221,120,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2145.jpg 194,248,1329,640,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1774.jpg 165,829,578,1471,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1636.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train516.jpg 14,17,243,159,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai409.jpg 65,46,203,137,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0388.jpg 32,23,232,176,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te514.jpg 71,46,254,170,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra559.jpg 45,37,236,182,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1750.jpg 98,773,1093,1267,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1093.jpg 236,6,536,260,3 580,33,867,292,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1802.jpg 226,347,1172,847,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1453.jpg 52,21,218,147,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1473.jpg 57,101,138,166,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr763.jpg 36,44,251,168,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1428.jpg 39,21,283,157,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t835.jpg 115,74,611,502,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1808.jpg 279,278,893,541,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2077.jpg 3,46,223,181,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr643.jpg 58,27,263,162,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1434.jpg 36,8,129,60,4 77,77,237,162,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1230.jpg 202,291,1200,1363,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t89.jpg 357,112,650,477,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1285.jpg 15,90,157,182,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1636.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra930.jpg 1,70,329,411,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2326.jpg 29,21,234,182,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr695.jpg 11,73,164,201,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr837.jpg 195,181,444,385,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes2086.jpg 93,38,262,154,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr206.jpg 42,2,214,182,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1959.jpg 166,77,646,399,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1589.jpg 1,7,202,231,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra880.jpg 106,79,961,737,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1889.jpg 5,14,217,199,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te30.jpg 349,123,878,520,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2108.jpg 16,29,230,183,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes592.jpg 40,39,204,120,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2051.jpg 9,50,120,143,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai808.jpg 90,25,526,395,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te972.jpg 27,25,218,165,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t271.jpg 166,21,561,338,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train694.jpg 20,38,169,133,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2024.jpg 232,18,632,490,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1232.jpg 62,20,251,165,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te734.jpg 51,17,231,180,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1855.jpg 31,18,184,146,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1618.jpg 4,33,128,146,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1376.jpg 516,261,1122,850,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1909.jpg 71,9,259,147,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0193.jpg 118,227,551,671,0 598,229,1061,690,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr866.jpg 18,313,950,959,2 535,6,953,319,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1521.jpg 1,1,275,179,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1504.jpg 21,11,107,83,4 19,99,95,169,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr923.jpg 47,110,626,478,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0370.jpg 97,53,254,124,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1788.jpg 83,118,508,576,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0390.jpg 54,42,230,151,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra268.jpg 120,64,908,856,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1064.jpg 197,490,729,977,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t307.jpg 65,12,264,151,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1557.jpg 36,87,194,179,4 105,9,242,78,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te974.jpg 121,13,194,69,2 155,78,237,160,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t817.jpg 68,109,923,922,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1849.jpg 78,62,244,163,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1543.jpg 51,39,231,146,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t933.jpg 91,79,724,548,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0128.jpg 179,117,688,387,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra104.jpg 214,73,676,460,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1969.jpg 187,94,642,528,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai545.jpg 58,47,233,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te452.jpg 66,18,255,162,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1178.jpg 103,34,264,147,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1309.jpg 324,98,545,291,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1839.jpg 29,25,275,147,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2059.jpg 20,34,180,173,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1211.jpg 25,86,210,212,3 11,14,116,77,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes692.jpg 45,36,224,170,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1892.jpg 48,31,211,167,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0233.jpg 157,44,563,297,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0698.jpg 37,35,259,163,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1059.jpg 73,285,368,541,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes840.jpg 88,81,187,170,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1352.jpg 36,85,800,543,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra900.jpg 69,53,542,449,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te101.jpg 48,99,439,332,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2006.jpg 286,9,642,230,3 440,249,640,405,3 188,485,352,595,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr204.jpg 118,66,502,293,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1128.jpg 181,175,837,561,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1643.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train954.jpg 43,52,216,184,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1556.jpg 57,14,260,147,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai556.jpg 42,33,217,157,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1912.jpg 42,88,194,197,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train926.jpg 97,65,518,373,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr742.jpg 16,10,223,167,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0445.jpg 45,36,262,169,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr444.jpg 78,67,235,165,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2110.jpg 15,20,242,146,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te919.jpg 102,80,877,645,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1628.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1796.jpg 483,478,1137,856,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1082.jpg 165,142,784,554,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra919.jpg 102,80,877,645,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1386.jpg 3,2,501,283,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t990.jpg 84,108,188,165,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra750.jpg 88,23,206,110,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1029.jpg 98,202,573,580,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train228.jpg 78,158,760,575,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1829.jpg 8,19,213,194,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train176.jpg 87,78,296,272,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2022.jpg 74,139,536,506,3 560,302,774,489,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test401.jpg 71,38,229,155,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1673.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train862.jpg 98,44,525,459,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr967.jpg 1,53,75,116,2 66,104,161,169,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1573.jpg 16,8,253,173,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te457.jpg 38,39,249,194,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1848.jpg 49,6,246,153,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1093.jpg 140,76,945,681,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1020.jpg 46,48,667,440,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1251.jpg 93,50,189,145,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1883.jpg 26,28,240,148,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr537.jpg 48,37,222,176,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1619.jpg 187,100,1188,781,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra929.jpg 73,361,982,887,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1024.jpg 359,250,592,485,2 2,469,137,701,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1817.jpg 391,193,1032,605,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1735.jpg 114,69,214,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai415.jpg 72,25,253,131,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t802.jpg 27,10,236,185,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes40.jpg 97,16,474,369,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te139.jpg 337,415,851,909,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes985.jpg 17,30,248,158,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t553.jpg 58,27,215,165,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2524.jpg 95,60,202,144,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1345.jpg 109,298,410,553,4 342,183,600,354,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes512.jpg 37,43,189,147,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1851.jpg 29,21,234,182,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1181.jpg 123,46,710,529,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1612.jpg 6,19,142,156,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te175.jpg 152,46,863,539,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test231.jpg 157,44,563,297,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0582.jpg 43,30,205,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1548.jpg 32,21,212,155,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr312.jpg 38,38,228,153,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1331.jpg 25,368,911,1039,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test420.jpg 127,48,295,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t943.jpg 27,86,159,183,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1537.jpg 55,47,215,181,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test649.jpg 71,51,213,172,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes82.jpg 267,145,2322,1945,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra841.jpg 1,289,750,935,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train270.jpg 156,102,609,415,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1368.jpg 219,132,869,619,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1196.jpg 74,46,210,154,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1804.jpg 24,508,623,916,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1329.jpg 79,201,528,535,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1963.jpg 337,86,735,449,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1719.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra618.jpg 60,47,247,146,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr197.jpg 28,15,247,119,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1770.jpg 194,248,1329,640,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1019.jpg 166,120,699,512,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2037.jpg 65,26,235,151,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai401.jpg 71,38,229,155,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1339.jpg 104,99,492,339,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te117.jpg 202,132,691,517,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test684.jpg 77,53,174,144,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1839.jpg 29,25,275,147,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1886.jpg 42,39,224,172,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1667.jpg 69,6,141,33,4 41,32,120,76,4 17,78,129,117,4 37,117,158,174,4 53,177,175,238,4 162,108,194,168,4 128,71,194,112,4 135,26,194,65,4 147,1,194,29,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1069.jpg 111,111,961,646,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1988.jpg 86,46,505,547,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te448.jpg 21,57,209,189,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2527.jpg 11,40,166,174,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t517.jpg 23,12,246,176,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1871.jpg 83,66,245,163,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1539.jpg 30,25,209,157,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0299.jpg 69,99,336,381,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0747.jpg 63,39,170,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1593.jpg 31,52,181,170,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1399.jpg 104,99,492,339,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t412.jpg 88,39,223,130,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1541.jpg 72,60,252,194,4 155,8,255,60,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0316.jpg 48,36,269,157,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te80.jpg 190,87,818,677,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test874.jpg 295,173,954,555,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2584.jpg 36,18,234,177,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test233.jpg 170,67,702,430,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai384.jpg 75,50,258,147,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t973.jpg 21,17,227,163,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te595.jpg 45,60,131,114,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1149.jpg 51,144,264,360,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1708.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test516.jpg 14,17,243,159,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1013.jpg 301,275,735,611,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t61.jpg 96,21,598,295,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1763.jpg 492,487,1125,865,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1286.jpg 126,36,273,160,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes2019.jpg 82,155,574,489,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1769.jpg 173,241,1317,650,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2096.jpg 27,35,209,186,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train971.jpg 13,42,218,186,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes423.jpg 51,36,216,177,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1569.jpg 64,16,240,179,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test341.jpg 62,21,241,146,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1253.jpg 77,44,185,134,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2000.jpg 370,3,783,400,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai152.jpg 892,511,2532,1676,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra924.jpg 7,130,206,299,2 216,71,404,236,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr868.jpg 1971,740,3000,1651,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t524.jpg 164,109,232,166,1 156,14,222,83,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1164.jpg 393,75,1361,799,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te533.jpg 15,50,120,142,1 121,101,224,175,1 204,33,271,120,1 112,3,199,78,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2570.jpg 19,16,237,178,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te415.jpg 72,25,253,131,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train507.jpg 64,27,211,168,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2113.jpg 122,692,465,1415,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1436.jpg 47,55,235,191,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1305.jpg 368,270,628,510,3 585,69,774,234,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1188.jpg 88,69,203,162,3 179,9,265,69,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test965.jpg 10,10,133,103,2 140,10,244,105,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1610.jpg 10,4,257,164,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te682.jpg 69,66,198,199,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1159.jpg 5,4,1098,734,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1551.jpg 56,25,222,171,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1543.jpg 51,39,231,146,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1995.jpg 150,106,688,514,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1785.jpg 78,871,1046,1317,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1964.jpg 174,7,741,512,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1421.jpg 30,5,261,157,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1929.jpg 243,74,611,457,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1465.jpg 118,144,339,291,4 368,162,612,324,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1452.jpg 7,21,255,176,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0516.jpg 71,46,254,170,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test572.jpg 29,56,183,183,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1025.jpg 224,165,430,369,2 448,64,632,253,2 430,327,629,503,2 1,323,100,556,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1509.jpg 32,51,98,95,4 14,103,89,168,4 102,106,175,172,4 183,100,265,166,4 116,52,175,101,4 194,53,252,98,4 145,28,199,62,4 77,23,132,60,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t395.jpg 41,44,228,157,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t791.jpg 117,160,1157,1029,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1876.jpg 28,40,219,159,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai690.jpg 37,58,171,183,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1181.jpg 20,25,223,165,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1025.jpg 224,165,430,369,2 448,64,632,253,2 430,327,629,503,2 1,323,100,556,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr163.jpg 153,115,286,321,0 550,218,694,437,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2562.jpg 12,44,173,140,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1821.jpg 181,205,1279,641,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra250.jpg 99,90,600,368,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr925.jpg 4,113,239,392,2 194,376,479,647,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1023.jpg 30,18,236,179,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test832.jpg 96,79,824,632,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1216.jpg 42,11,268,160,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1737.jpg 183,41,258,109,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1820.jpg 350,243,1204,681,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr340.jpg 89,56,232,153,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr892.jpg 155,109,592,397,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1817.jpg 391,193,1032,605,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr244.jpg 223,110,922,512,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0290.jpg 214,185,456,347,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes200.jpg 142,238,477,674,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2022.jpg 74,139,536,506,3 560,302,774,489,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train866.jpg 18,313,950,959,2 535,6,953,319,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai827.jpg 51,47,622,471,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai839.jpg 97,252,360,506,2 373,246,606,490,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1751.jpg 35,615,905,1123,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t185.jpg 66,9,285,138,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te440.jpg 74,40,235,143,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1627.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes792.jpg 42,25,227,144,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1062.jpg 95,71,743,565,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2001.jpg 71,81,228,248,3 492,107,674,327,3 644,291,797,464,3 18,206,111,294,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes990.jpg 84,108,188,165,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1383.jpg 275,251,584,459,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai833.jpg 181,108,860,660,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra672.jpg 112,66,181,137,1 183,20,275,90,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1529.jpg 1,7,202,231,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1644.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra218.jpg 33,209,391,533,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1005.jpg 26,168,565,393,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test706.jpg 43,10,200,133,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2102.jpg 42,17,230,178,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1176.jpg 82,14,217,145,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test931.jpg 129,94,504,326,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra394.jpg 44,37,231,165,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr992.jpg 40,260,450,592,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test846.jpg 7,108,382,439,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1979.jpg 270,51,518,310,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes919.jpg 102,80,877,645,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1131.jpg 71,63,642,520,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1373.jpg 153,142,775,726,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1543.jpg 51,39,231,146,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1613.jpg 65,19,214,145,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai67.jpg 145,34,458,259,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes562.jpg 56,47,227,137,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes860.jpg 65,320,971,933,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test470.jpg 50,35,237,143,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1422.jpg 9,36,222,159,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2015.jpg 116,29,453,344,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1983.jpg 176,348,515,597,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1481.jpg 60,60,128,115,4 133,35,198,87,4 109,109,181,168,4 185,80,253,133,4 1,94,56,148,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1530.jpg 99,31,246,151,4 1,76,77,179,4 1,1,102,39,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1084.jpg 62,108,450,458,3 483,105,823,443,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr627.jpg 60,28,233,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra2015.jpg 116,29,453,344,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra2105.jpg 15,41,173,140,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0842.jpg 259,207,696,577,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test743.jpg 35,61,185,196,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1246.jpg 77,59,232,177,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1731.jpg 181,29,517,272,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train843.jpg 45,62,864,650,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train780.jpg 29,37,213,196,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1813.jpg 78,389,829,831,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1742.jpg 735,218,1108,831,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t562.jpg 56,47,227,137,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1151.jpg 77,45,492,377,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes607.jpg 16,21,250,173,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai970.jpg 34,29,243,161,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1555.jpg 14,61,87,118,4 92,55,157,111,4 33,108,179,194,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1198.jpg 21,89,123,171,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test60.jpg 1,1,384,339,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1550.jpg 10,4,257,164,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test156.jpg 94,34,484,447,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te607.jpg 16,21,250,173,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0210.jpg 303,167,768,521,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1562.jpg 98,109,181,153,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes534.jpg 79,41,257,174,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra6.jpg 145,135,706,430,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1495.jpg 14,61,87,118,4 92,55,157,111,4 33,108,179,194,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te2112.jpg 32,30,258,146,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr781.jpg 35,28,219,173,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes555.jpg 33,33,184,182,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai641.jpg 35,45,156,123,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t993.jpg 171,287,445,559,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1838.jpg 33,10,281,144,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra601.jpg 8,141,179,238,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1267.jpg 93,59,221,151,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1114.jpg 203,339,608,797,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1603.jpg 372,271,1245,968,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0496.jpg 66,24,213,149,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te522.jpg 37,50,200,178,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes943.jpg 27,86,159,183,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t59.jpg 151,121,389,387,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t2120.jpg 67,22,215,150,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1634.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1990.jpg 323,1,523,184,3 532,128,742,338,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2105.jpg 15,41,173,140,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1853.jpg 57,42,216,166,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1381.jpg 294,870,744,1141,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1734.jpg 57,45,196,179,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t344.jpg 35,74,194,194,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1822.jpg 329,181,982,1195,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0027.jpg 158,20,848,532,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0870.jpg 138,61,490,371,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0777.jpg 38,3,306,135,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai38.jpg 494,200,1291,766,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1620.jpg 161,46,837,562,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai495.jpg 79,53,273,179,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2597.jpg 47,27,225,179,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1232.jpg 62,20,251,165,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t356.jpg 19,18,254,178,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1078.jpg 153,124,782,596,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1767.jpg 40,329,1020,878,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra431.jpg 29,46,205,194,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2027.jpg 46,44,195,136,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te821.jpg 67,1,839,643,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1874.jpg 80,24,232,149,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1839.jpg 29,25,275,147,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2147.jpg 305,692,706,1449,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te675.jpg 56,51,231,178,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test180.jpg 120,24,767,379,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1815.jpg 357,479,1206,940,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1830.jpg 53,25,275,183,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1840.jpg 21,34,206,185,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1527.jpg 27,16,225,172,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra504.jpg 66,44,244,165,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train667.jpg 89,17,212,159,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t22.jpg 212,42,723,355,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra69.jpg 194,2,717,426,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1306.jpg 318,58,810,486,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2045.jpg 2,31,186,174,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1958.jpg 213,121,607,353,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train739.jpg 71,79,161,177,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1119.jpg 417,265,1473,962,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2110.jpg 51,34,220,162,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2432.jpg 248,153,551,398,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1296.jpg 86,194,1168,901,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t2037.jpg 65,26,235,151,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1110.jpg 52,134,191,272,3 153,363,341,578,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1523.jpg 109,41,260,150,4 1,5,113,108,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai832.jpg 96,79,824,632,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test910.jpg 322,114,589,300,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0768.jpg 111,57,228,124,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test722.jpg 51,33,226,153,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1066.jpg 17,152,892,739,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1574.jpg 63,41,227,169,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes334.jpg 43,12,257,167,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai864.jpg 252,137,999,647,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai119.jpg 299,65,723,465,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1961.jpg 123,7,712,495,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1841.jpg 33,46,204,155,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra753.jpg 24,68,190,175,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1655.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1894.jpg 18,47,223,160,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1209.jpg 22,33,164,149,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0226.jpg 74,126,348,388,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2490.jpg 116,29,453,344,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai482.jpg 36,37,232,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1723.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra2081.jpg 39,94,180,231,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1135.jpg 368,207,1787,1372,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te441.jpg 77,50,215,162,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1922.jpg 13,15,254,168,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te816.jpg 292,18,747,377,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1748.jpg 55,1021,940,1477,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1696.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2062.jpg 13,104,170,234,4 93,17,188,100,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai187.jpg 29,2,161,124,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1936.jpg 320,358,470,527,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1083.jpg 252,284,550,530,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1894.jpg 18,47,223,160,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr128.jpg 142,185,566,551,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr766.jpg 111,57,228,124,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1985.jpg 172,117,656,566,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes179.jpg 130,28,516,361,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train55.jpg 163,22,593,338,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1305.jpg 368,270,628,510,3 585,69,774,234,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr400.jpg 54,28,232,176,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1741.jpg 325,567,735,1366,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1701.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t305.jpg 102,93,208,166,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1387.jpg 105,93,443,355,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1798.jpg 334,483,896,846,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t55.jpg 163,22,593,338,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1781.jpg 83,1029,932,1458,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1021.jpg 443,106,1280,825,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1243.jpg 67,22,194,147,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1447.jpg 74,29,275,144,4 9,1,100,34,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1434.jpg 36,8,129,60,4 77,77,237,162,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1074.jpg 111,145,874,878,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1896.jpg 20,16,242,169,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2013.jpg 186,138,577,391,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr300.jpg 57,40,200,169,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1375.jpg 204,125,835,559,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1671.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1223.jpg 107,68,183,137,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1587.jpg 27,16,225,172,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai392.jpg 27,43,258,170,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1937.jpg 154,42,379,242,3 414,314,632,556,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1778.jpg 508,247,820,815,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1189.jpg 55,25,235,151,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra303.jpg 29,25,241,163,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test126.jpg 179,117,688,387,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2079.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes726.jpg 21,32,221,177,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te585.jpg 28,22,238,172,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te694.jpg 20,38,169,133,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2004.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1732.jpg 567,343,1611,1261,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1099.jpg 46,428,580,926,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai276.jpg 404,236,926,480,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0620.jpg 60,47,247,146,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1341.jpg 273,83,622,366,4 2,110,217,292,4 188,3,383,74,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1030.jpg 216,161,597,530,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1796.jpg 483,478,1137,856,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0533.jpg 41,17,229,175,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t693.jpg 35,41,170,180,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes65.jpg 205,93,512,385,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1205.jpg 60,56,207,145,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr740.jpg 44,35,224,165,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t2043.jpg 54,39,269,161,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1845.jpg 51,21,214,151,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2104.jpg 138,118,881,704,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1672.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr219.jpg 325,34,1070,497,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1595.jpg 14,9,241,193,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes749.jpg 39,20,208,173,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1991.jpg 71,151,567,514,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te645.jpg 30,2,251,181,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr699.jpg 21,8,210,198,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes599.jpg 38,56,251,151,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1590.jpg 33,57,271,170,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1240.jpg 1,1,203,142,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te577.jpg 13,75,167,172,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1453.jpg 52,21,218,147,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train57.jpg 135,268,1065,681,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1787.jpg 826,87,1450,1040,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1847.jpg 52,22,274,181,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1479.jpg 108,114,180,154,4 88,166,180,250,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te848.jpg 138,61,490,371,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1106.jpg 1606,539,2377,1275,3 1589,19,2358,406,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t131.jpg 59,23,506,389,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2090.jpg 38,15,222,170,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te2008.jpg 230,137,581,484,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes729.jpg 25,23,134,90,1 36,99,234,187,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te124.jpg 100,116,403,372,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1037.jpg 123,60,582,410,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1075.jpg 119,62,825,593,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1949.jpg 442,291,670,522,3 102,286,302,537,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t950.jpg 42,2,178,127,2 1,107,71,256,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1667.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1455.jpg 66,17,282,213,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2084.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra447.jpg 63,54,254,169,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0983.jpg 38,31,245,159,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes69.jpg 194,2,717,426,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te712.jpg 114,90,178,168,1 203,97,263,174,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1642.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test246.jpg 212,93,638,330,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1038.jpg 119,70,753,518,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes614.jpg 50,39,212,166,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1706.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test106.jpg 59,43,211,152,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra773.jpg 44,42,194,144,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1787.jpg 826,87,1450,1040,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1129.jpg 232,161,711,480,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te426.jpg 40,54,217,155,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1343.jpg 927,881,2506,1907,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra479.jpg 60,31,235,159,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1508.jpg 5,61,194,219,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1935.jpg 156,154,572,588,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1229.jpg 243,288,1016,652,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1706.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra839.jpg 97,252,360,506,2 373,246,606,490,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1423.jpg 44,23,271,140,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1327.jpg 105,93,443,355,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0988.jpg 70,9,256,178,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1507.jpg 26,20,248,174,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0216.jpg 139,11,884,506,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2032.jpg 5,19,241,194,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2059.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1377.jpg 529,353,976,744,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1478.jpg 156,51,271,143,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t661.jpg 41,73,191,178,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1417.jpg 3,125,706,576,4 310,647,1154,1185,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes478.jpg 51,35,253,168,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1113.jpg 226,111,389,219,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1943.jpg 372,318,620,551,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra266.jpg 204,121,417,394,0 381,74,570,312,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1453.jpg 52,21,218,147,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1947.jpg 279,174,606,509,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr607.jpg 16,21,250,173,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1343.jpg 927,881,2506,1907,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1294.jpg 247,408,642,805,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2045.jpg 2,31,186,174,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1307.jpg 202,66,785,529,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test0.jpg 185,56,628,451,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1649.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1160.jpg 140,21,624,469,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1790.jpg 52,763,1058,1006,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1647.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0999.jpg 75,36,259,184,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra213.jpg 1695,521,3956,2475,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train14.jpg 305,29,827,457,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1446.jpg 54,6,268,163,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1265.jpg 23,20,270,139,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra129.jpg 167,67,860,425,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1002.jpg 135,76,879,593,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1666.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test890.jpg 101,42,800,595,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t393.jpg 21,17,225,170,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1491.jpg 18,33,185,160,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1678.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1133.jpg 187,43,852,633,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0291.jpg 11,50,182,179,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr313.jpg 45,28,223,137,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1161.jpg 207,167,1044,694,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1176.jpg 82,14,217,145,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train766.jpg 111,57,228,124,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1888.jpg 37,18,230,159,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1940.jpg 144,33,762,565,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t860.jpg 65,320,971,933,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes274.jpg 30,70,149,172,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr597.jpg 27,60,157,168,1 156,32,267,118,1 37,5,161,52,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2124.jpg 42,27,218,171,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1826.jpg 37,25,616,424,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1702.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train170.jpg 223,52,882,412,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1097.jpg 145,78,876,525,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1183.jpg 92,72,209,158,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1918.jpg 41,27,235,161,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1061.jpg 302,270,553,471,3 603,230,826,448,3 550,463,824,702,3 195,511,478,757,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2049.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2111.jpg 59,34,224,145,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr450.jpg 36,46,224,174,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1749.jpg 107,760,1012,1157,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2000.jpg 370,3,783,400,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2119.jpg 6,37,260,139,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1717.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1393.jpg 19,199,289,402,4 191,40,389,163,4 328,167,600,398,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1914.jpg 43,50,226,157,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test350.jpg 41,16,265,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test396.jpg 36,59,189,159,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1740.jpg 180,818,605,1469,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1745.jpg 522,244,812,791,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1167.jpg 135,221,552,477,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0080.jpg 341,295,861,566,0 12,209,327,426,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test944.jpg 93,53,168,113,2 151,114,225,186,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2114.jpg 73,33,178,83,4 34,87,138,152,4 153,82,258,153,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai518.jpg 31,37,184,188,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1152.jpg 191,122,466,351,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train309.jpg 44,13,239,177,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t97.jpg 89,13,496,388,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra783.jpg 88,51,199,138,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test78.jpg 44,30,296,311,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1118.jpg 77,134,845,642,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes309.jpg 44,13,239,177,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai226.jpg 307,132,874,363,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1526.jpg 98,61,162,123,4 1,129,53,190,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test857.jpg 6,563,827,1308,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test501.jpg 58,41,239,156,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1141.jpg 1132,219,3498,2647,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te945.jpg 8,26,265,179,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1805.jpg 207,487,998,1031,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te703.jpg 34,104,126,211,1 1,41,53,104,1 100,23,186,89,1 171,72,224,174,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1363.jpg 304,213,750,545,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1362.jpg 362,92,696,291,4 13,249,337,539,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2335.jpg 8,11,208,197,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test899.jpg 129,64,735,542,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra499.jpg 20,35,240,148,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra573.jpg 72,56,181,150,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0235.jpg 170,67,702,430,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1543.jpg 51,39,231,146,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai779.jpg 65,15,253,133,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes348.jpg 70,50,216,143,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2446.jpg 190,76,651,521,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0261.jpg 618,272,1452,803,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1316.jpg 516,261,1122,850,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test460.jpg 67,56,205,150,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1592.jpg 72,33,266,154,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t93.jpg 155,15,608,324,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1787.jpg 826,87,1450,1040,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr158.jpg 95,173,576,487,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1399.jpg 68,158,1104,934,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2085.jpg 78,53,224,152,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1999.jpg 214,124,536,500,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1296.jpg 86,194,1168,901,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr253.jpg 42,4,353,176,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1046.jpg 7,129,313,408,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1315.jpg 87,220,1135,1061,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1077.jpg 179,172,753,632,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1185.jpg 30,10,186,143,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes639.jpg 62,17,234,147,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te54.jpg 46,12,364,339,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te53.jpg 37,123,366,371,0 289,9,517,131,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1758.jpg 283,615,1022,1235,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train106.jpg 59,43,211,152,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1710.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1579.jpg 38,47,142,115,4 141,68,249,146,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1833.jpg 1,26,227,170,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train234.jpg 57,43,547,377,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1173.jpg 226,111,389,219,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1132.jpg 212,192,654,468,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1196.jpg 74,46,210,154,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes861.jpg 39,189,313,397,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1238.jpg 13,58,208,173,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1157.jpg 141,63,785,497,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1000.jpg 38,14,325,269,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train453.jpg 102,17,247,140,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1075.jpg 119,62,825,593,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1180.jpg 87,81,181,163,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1277.jpg 46,62,219,114,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2515.jpg 1,7,83,86,4 98,14,188,92,4 204,20,259,99,4 155,99,256,194,4 24,97,127,192,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0283.jpg 111,52,255,163,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai745.jpg 63,39,170,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1052.jpg 182,95,832,665,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0851.jpg 505,54,999,607,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr325.jpg 46,36,239,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1218.jpg 56,36,197,166,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1677.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1348.jpg 250,136,398,250,4 183,296,338,444,4 380,288,534,438,4 486,184,639,303,4 412,77,560,178,4 317,18,440,103,4 178,18,308,110,4 57,78,207,177,4 58,178,230,307,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1820.jpg 350,243,1204,681,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test380.jpg 57,12,285,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0386.jpg 75,50,258,147,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test35.jpg 40,10,253,137,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train175.jpg 152,46,863,539,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1735.jpg 114,69,214,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai747.jpg 40,29,220,138,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1767.jpg 40,329,1020,878,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1222.jpg 306,76,563,281,3 596,21,794,243,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1113.jpg 226,111,389,219,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1044.jpg 252,58,430,207,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1067.jpg 100,85,556,395,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1376.jpg 526,245,1024,636,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra2032.jpg 5,19,241,194,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1020.jpg 46,48,667,440,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test228.jpg 78,158,760,575,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai217.jpg 95,17,363,200,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t602.jpg 132,50,270,137,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai596.jpg 66,19,263,132,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1960.jpg 53,42,394,467,3 418,31,725,426,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra110.jpg 475,251,1238,957,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr890.jpg 101,42,800,595,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1739.jpg 292,674,738,1454,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra66.jpg 241,74,516,272,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1820.jpg 350,243,1204,681,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t2069.jpg 18,36,252,141,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0734.jpg 87,21,192,134,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra127.jpg 483,149,1395,1108,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t613.jpg 59,42,221,148,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1251.jpg 93,50,189,145,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1623.jpg 16,4,85,47,4 16,57,116,137,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train841.jpg 1,289,750,935,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1391.jpg 239,93,622,387,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes482.jpg 36,37,232,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1465.jpg 29,64,194,157,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t787.jpg 152,223,560,582,2 9,46,311,226,2 563,163,809,376,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test986.jpg 44,48,224,170,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2052.jpg 11,40,166,174,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1124.jpg 182,47,634,490,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2025.jpg 849,807,2456,2077,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2007.jpg 370,24,669,282,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra260.jpg 172,38,618,328,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1842.jpg 79,25,230,150,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr431.jpg 29,46,205,194,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2088.jpg 62,25,268,164,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra837.jpg 195,181,444,385,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai319.jpg 33,71,209,186,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1700.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2095.jpg 19,16,237,178,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai171.jpg 190,134,816,502,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t758.jpg 23,22,221,188,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1086.jpg 113,388,560,691,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2010.jpg 215,102,575,472,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1389.jpg 79,201,528,535,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1352.jpg 36,85,800,543,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr474.jpg 68,55,235,156,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1997.jpg 49,163,278,428,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr955.jpg 31,29,226,154,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai478.jpg 51,35,253,168,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1798.jpg 334,483,896,846,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1081.jpg 104,175,695,645,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1733.jpg 49,358,1197,1120,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai267.jpg 113,10,885,540,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr577.jpg 13,75,167,172,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1582.jpg 62,59,220,154,4 129,12,267,68,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te705.jpg 41,15,223,125,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t269.jpg 87,30,252,175,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra397.jpg 47,33,229,164,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1206.jpg 114,116,202,191,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te2023.jpg 128,92,731,565,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1533.jpg 31,52,181,170,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1759.jpg 82,844,1062,1329,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1033.jpg 44,48,224,170,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train410.jpg 33,32,211,212,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1943.jpg 372,318,620,551,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra797.jpg 106,78,619,517,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1332.jpg 3,24,257,205,4 200,196,635,456,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes2100.jpg 62,15,212,110,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1363.jpg 304,213,750,545,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1730.jpg 138,118,881,704,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes2115.jpg 6,11,252,172,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1983.jpg 176,348,515,597,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1760.jpg 190,393,908,676,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2100.jpg 62,15,212,110,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t76.jpg 267,1,872,533,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1501.jpg 79,62,223,167,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1522.jpg 50,13,252,149,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1346.jpg 243,228,1406,1068,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1062.jpg 301,275,735,611,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t467.jpg 40,22,260,164,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes2081.jpg 39,94,180,231,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0564.jpg 56,47,227,137,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train760.jpg 31,35,224,161,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1441.jpg 27,39,64,64,4 5,68,35,100,4 2,109,33,141,4 3,151,40,190,4 32,184,77,227,4 72,144,109,180,4 37,105,77,144,4 56,64,90,98,4 67,24,99,53,4 105,22,141,50,4 96,55,139,87,4 142,30,178,63,4 84,94,133,131,4 116,131,164,169,4 85,194,134,244,4 143,171,194,227,4 168,61,194,93,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te360.jpg 15,16,264,169,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test354.jpg 40,49,217,173,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes854.jpg 19,70,341,311,2 362,61,429,118,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra669.jpg 48,42,229,178,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1521.jpg 1,1,275,179,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1214.jpg 30,45,197,176,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1888.jpg 37,18,230,159,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1017.jpg 21,87,329,300,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1034.jpg 3,69,767,515,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1489.jpg 67,44,124,83,4 126,35,173,74,4 168,52,219,86,4 116,79,169,118,4 31,73,91,122,4 47,118,98,163,4 99,144,163,181,4 165,134,233,174,4 187,89,262,133,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1806.jpg 323,271,1147,758,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1641.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1024.jpg 359,250,592,485,2 2,469,137,701,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test755.jpg 59,34,241,164,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1123.jpg 126,38,604,399,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t325.jpg 46,36,239,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai318.jpg 66,41,234,183,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train314.jpg 48,36,269,157,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test166.jpg 77,107,202,192,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1429.jpg 4,69,136,167,4 85,4,190,67,4 140,65,259,172,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1136.jpg 72,71,926,681,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te89.jpg 357,112,650,477,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1554.jpg 71,22,110,44,4 106,17,140,32,4 143,18,182,37,4 114,32,152,56,4 69,43,119,69,4 55,71,108,105,4 57,108,124,159,4 119,55,158,83,4 155,39,201,72,4 205,47,263,81,4 178,69,238,121,4 118,84,179,124,4 176,119,239,163,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1888.jpg 37,18,230,159,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra969.jpg 21,54,125,150,2 138,45,255,155,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1100.jpg 122,43,526,334,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train243.jpg 73,107,422,381,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1664.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1737.jpg 183,41,258,109,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test534.jpg 79,41,257,174,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1342.jpg 58,252,128,308,4 45,322,123,390,4 182,320,265,386,4 298,323,383,390,4 175,410,260,474,4 283,405,376,477,4 207,197,274,237,4 303,198,365,242,4 310,137,372,174,4 52,96,119,127,4 428,191,493,235,4 421,248,512,297,4 435,315,521,376,4 454,392,542,472,4 546,315,628,386,4 535,240,608,306,4 515,193,582,235,4 529,124,575,173,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t592.jpg 40,39,204,120,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t795.jpg 166,54,838,615,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai166.jpg 77,107,202,192,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1850.jpg 118,67,259,180,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra517.jpg 23,12,246,176,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test405.jpg 32,37,249,194,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test868.jpg 1971,740,3000,1651,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te2081.jpg 39,94,180,231,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1937.jpg 154,42,379,242,3 414,314,632,556,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t850.jpg 251,173,702,592,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1630.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1542.jpg 56,68,240,162,4 51,14,125,57,4 148,5,211,37,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1590.jpg 33,57,271,170,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes2111.jpg 59,34,224,145,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train885.jpg 91,75,1938,1492,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train520.jpg 46,24,210,156,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes719.jpg 42,28,226,161,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1085.jpg 1,180,169,347,3 91,340,360,554,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0569.jpg 26,100,175,246,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai461.jpg 15,14,243,171,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes33.jpg 154,91,579,435,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes2122.jpg 47,27,225,179,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train61.jpg 96,21,598,295,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1096.jpg 89,160,794,643,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te31.jpg 145,72,673,445,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1576.jpg 20,19,246,179,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1795.jpg 311,391,1011,880,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai928.jpg 544,353,960,742,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1568.jpg 5,61,194,219,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1762.jpg 207,395,1070,861,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1126.jpg 153,3,589,383,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2104.jpg 25,40,213,176,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr594.jpg 18,39,226,172,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1914.jpg 43,50,226,157,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1604.jpg 40,40,226,156,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1831.jpg 25,37,220,186,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1808.jpg 279,278,893,541,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te350.jpg 41,16,265,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1879.jpg 59,22,275,176,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2014.jpg 191,30,689,512,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1961.jpg 123,7,712,495,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1013.jpg 301,275,735,611,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1353.jpg 164,44,667,441,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1051.jpg 135,76,879,593,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2331.jpg 43,17,275,183,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te2045.jpg 2,31,186,174,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes748.jpg 18,33,183,161,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0669.jpg 89,17,212,159,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr240.jpg 227,99,549,238,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te898.jpg 69,84,799,557,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0557.jpg 33,33,184,182,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train761.jpg 125,58,220,157,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1118.jpg 77,134,845,642,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te953.jpg 23,66,141,163,2 156,25,267,126,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai542.jpg 40,58,243,194,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1574.jpg 60,47,233,160,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1237.jpg 45,21,212,154,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1212.jpg 119,78,214,164,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1695.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1177.jpg 114,196,888,740,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr635.jpg 88,69,190,142,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1259.jpg 1,37,75,99,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai796.jpg 134,31,652,402,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2043.jpg 54,39,269,161,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test728.jpg 89,93,217,183,1 136,36,273,108,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2337.jpg 75,47,228,154,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1715.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1983.jpg 176,348,515,597,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr972.jpg 27,25,218,165,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train425.jpg 31,78,259,194,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1058.jpg 185,145,444,428,3 456,99,600,261,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra413.jpg 57,27,229,168,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1709.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t215.jpg 124,27,810,552,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1883.jpg 26,28,240,148,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train288.jpg 214,185,456,347,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1740.jpg 180,818,605,1469,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1360.jpg 354,383,1395,1029,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1384.jpg 26,122,152,204,4 176,95,298,171,4 325,67,436,141,4 75,229,220,325,4 253,199,380,287,4 409,151,523,243,4 553,108,677,203,4 84,376,208,472,4 242,325,374,417,4 393,292,516,393,4 537,249,665,351,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test451.jpg 24,53,192,208,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1806.jpg 323,271,1147,758,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train271.jpg 166,21,561,338,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai631.jpg 69,38,229,140,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1436.jpg 47,55,235,191,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1697.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1933.jpg 172,132,687,411,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes637.jpg 29,12,227,168,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1296.jpg 86,194,1168,901,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1382.jpg 556,338,966,723,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2573.jpg 22,24,227,171,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1021.jpg 443,106,1280,825,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1351.jpg 209,76,1007,655,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train585.jpg 28,22,238,172,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test565.jpg 74,11,257,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1408.jpg 51,120,304,346,4 323,137,571,361,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1516.jpg 13,15,105,66,4 62,67,182,145,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1324.jpg 188,7,502,383,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai68.jpg 80,82,518,353,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t579.jpg 18,29,249,187,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr625.jpg 65,40,238,128,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2175.jpg 431,31,866,872,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1980.jpg 113,17,395,307,3 398,219,710,528,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train673.jpg 41,66,191,181,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0946.jpg 69,53,542,449,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai790.jpg 98,94,466,375,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test819.jpg 2,183,355,447,2 111,481,514,759,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai649.jpg 71,51,213,172,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te226.jpg 307,132,874,363,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1480.jpg 11,92,125,209,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train131.jpg 59,23,506,389,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t774.jpg 22,25,222,148,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train178.jpg 318,100,543,236,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1369.jpg 522,267,982,619,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1108.jpg 65,99,505,400,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0874.jpg 254,220,581,424,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr350.jpg 41,16,265,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1677.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0820.jpg 267,101,617,430,2 657,127,800,464,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2499.jpg 232,18,632,490,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1762.jpg 207,395,1070,861,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2081.jpg 39,94,180,231,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train919.jpg 102,80,877,645,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1492.jpg 157,96,228,162,4 231,87,307,160,4 212,1,272,51,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2113.jpg 22,6,249,173,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1163.jpg 139,84,733,514,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1709.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1287.jpg 52,31,223,161,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t2012.jpg 528,249,656,362,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1776.jpg 395,666,1052,1275,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1801.jpg 29,401,894,858,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t966.jpg 6,71,175,177,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train994.jpg 15,38,512,365,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1694.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1291.jpg 75,62,211,162,3 45,1,174,44,3 208,1,275,72,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2123.jpg 40,19,231,172,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1446.jpg 54,6,268,163,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1705.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2018.jpg 121,71,592,481,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes755.jpg 59,34,241,164,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0422.jpg 127,48,295,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1520.jpg 53,26,227,165,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1532.jpg 54,58,219,149,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai959.jpg 21,41,241,172,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t975.jpg 19,15,184,159,2 199,28,275,154,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t0.jpg 185,56,628,451,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train548.jpg 27,69,159,159,1 174,1,318,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te2041.jpg 68,28,215,143,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2058.jpg 12,29,247,162,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1763.jpg 492,487,1125,865,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t354.jpg 40,49,217,173,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1056.jpg 400,84,848,494,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0707.jpg 41,15,223,125,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te731.jpg 50,57,165,188,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr859.jpg 41,184,313,401,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test700.jpg 73,19,247,173,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1561.jpg 42,40,228,134,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1277.jpg 46,62,219,114,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1689.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te521.jpg 78,33,227,155,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2061.jpg 4,51,174,217,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2000.jpg 370,3,783,400,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t543.jpg 101,45,207,109,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1193.jpg 53,26,216,161,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1773.jpg 306,537,740,1341,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1520.jpg 53,26,227,165,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1727.jpg 186,76,1038,695,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1375.jpg 204,125,835,559,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1326.jpg 6,415,351,620,4 355,424,701,642,4 188,281,429,409,4 451,287,708,403,4 731,303,1000,448,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr142.jpg 370,57,990,601,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train113.jpg 8,36,478,383,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1606.jpg 59,9,215,147,4 19,133,148,194,4 162,93,256,186,4 163,1,251,71,4 16,44,69,121,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1427.jpg 43,42,217,154,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1514.jpg 60,47,233,160,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1350.jpg 80,283,362,497,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te911.jpg 324,117,589,297,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra936.jpg 38,31,245,159,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1962.jpg 178,107,655,568,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1345.jpg 109,298,410,553,4 342,183,600,354,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes933.jpg 91,79,724,548,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1107.jpg 317,125,617,301,3 121,313,624,546,3 795,73,1178,230,3 937,399,1039,448,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1042.jpg 168,74,637,467,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1845.jpg 51,21,214,151,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1410.jpg 125,55,542,431,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1676.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1132.jpg 212,192,654,468,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1602.jpg 89,143,342,282,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai735.jpg 79,33,177,127,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes698.jpg 42,42,199,166,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2075.jpg 68,62,221,159,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test913.jpg 18,88,938,907,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2108.jpg 16,29,230,183,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1471.jpg 27,33,231,186,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1004.jpg 164,81,819,557,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te182.jpg 53,9,244,173,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te838.jpg 98,37,515,395,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai916.jpg 338,278,1663,1251,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train2112.jpg 32,30,258,146,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train367.jpg 42,12,225,176,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te257.jpg 251,171,701,452,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1155.jpg 143,129,892,736,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test686.jpg 46,62,244,137,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2094.jpg 22,61,214,225,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes828.jpg 197,164,1880,1247,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te262.jpg 212,74,514,275,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test926.jpg 97,65,518,373,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra712.jpg 114,90,178,168,1 203,97,263,174,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1635.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes2055.jpg 61,30,264,154,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1792.jpg 83,872,1055,1303,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test834.jpg 29,68,216,163,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1430.jpg 51,38,112,87,4 103,57,172,110,4 171,39,226,95,4 107,3,165,44,4 54,100,106,148,4 100,118,171,174,4 180,105,233,163,4 228,70,275,121,4 1,77,45,130,4 21,1,72,41,4 203,2,253,43,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te573.jpg 72,56,181,150,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t409.jpg 65,46,203,137,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1740.jpg 180,818,605,1469,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1617.jpg 1,11,128,174,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1187.jpg 105,18,179,85,3 17,85,109,168,3 163,85,243,174,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra2077.jpg 3,46,223,181,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1588.jpg 53,33,207,143,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1093.jpg 236,6,536,260,3 580,33,867,292,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t885.jpg 91,75,1938,1492,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes866.jpg 18,313,950,959,2 535,6,953,319,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1633.jpg 16,8,253,173,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1599.jpg 47,82,402,358,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1313.jpg 77,264,333,540,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr33.jpg 154,91,579,435,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1263.jpg 19,37,196,175,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr81.jpg 131,162,418,400,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr934.jpg 96,388,675,819,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0661.jpg 87,49,216,145,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr408.jpg 30,24,229,179,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1779.jpg 603,66,971,554,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1786.jpg 177,611,766,943,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai623.jpg 88,75,195,167,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1153.jpg 168,121,539,366,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train858.jpg 89,40,586,450,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1998.jpg 141,58,683,537,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1285.jpg 15,90,157,182,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra621.jpg 75,43,221,142,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test336.jpg 53,32,225,160,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1388.jpg 179,148,424,364,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr344.jpg 35,74,194,194,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test784.jpg 39,85,870,675,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t984.jpg 8,15,167,165,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes559.jpg 45,37,236,182,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0191.jpg 134,44,458,224,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t155.jpg 129,49,746,465,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1813.jpg 78,389,829,831,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra9.jpg 161,126,917,720,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1332.jpg 3,24,257,205,4 200,196,635,456,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1174.jpg 63,15,239,170,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1817.jpg 391,193,1032,605,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te822.jpg 49,22,418,205,2 1,245,520,621,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1252.jpg 70,34,217,141,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr296.jpg 48,39,158,118,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train536.jpg 41,8,300,168,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te383.jpg 76,49,210,149,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1779.jpg 603,66,971,554,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te73.jpg 286,53,551,281,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes999.jpg 21,76,284,275,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1146.jpg 221,51,846,581,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1424.jpg 7,47,223,177,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes876.jpg 7,229,1440,1440,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1460.jpg 24,50,138,159,4 163,56,291,157,4 150,2,190,65,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train475.jpg 33,35,281,168,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1792.jpg 83,872,1055,1303,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1652.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr2119.jpg 6,37,260,139,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra2044.jpg 21,19,222,184,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1529.jpg 1,7,202,231,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t111.jpg 33,9,205,153,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1719.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1221.jpg 103,55,225,149,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai228.jpg 78,158,760,575,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test916.jpg 338,278,1663,1251,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1584.jpg 38,11,252,153,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1192.jpg 21,26,249,181,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra819.jpg 2,183,355,447,2 111,481,514,759,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2051.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t134.jpg 204,26,965,477,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train360.jpg 15,16,264,169,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1551.jpg 56,25,222,171,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2308.jpg 1,26,227,170,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t635.jpg 88,69,190,142,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t523.jpg 45,27,250,147,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1657.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1068.jpg 320,389,902,891,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te851.jpg 354,157,514,302,2 531,160,700,347,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1061.jpg 302,270,553,471,3 603,230,826,448,3 550,463,824,702,3 195,511,478,757,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1678.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train568.jpg 53,48,238,179,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1300.jpg 354,383,1395,1029,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1417.jpg 3,125,706,576,4 310,647,1154,1185,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0043.jpg 203,43,693,449,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1436.jpg 47,55,235,191,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai829.jpg 259,207,696,577,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te527.jpg 47,61,178,173,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1682.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1429.jpg 522,267,982,619,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1811.jpg 162,439,947,728,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr801.jpg 342,80,585,327,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1941.jpg 185,132,693,503,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1294.jpg 247,408,642,805,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1210.jpg 55,40,187,152,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1573.jpg 16,8,253,173,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test558.jpg 39,37,258,161,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1895.jpg 20,45,217,190,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1432.jpg 19,40,214,119,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1482.jpg 34,37,224,176,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test619.jpg 28,41,231,188,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t601.jpg 8,141,179,238,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train118.jpg 712,330,1517,904,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train299.jpg 108,17,241,130,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2377.jpg 4,37,223,179,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1140.jpg 115,50,567,490,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes367.jpg 42,12,225,176,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1388.jpg 179,148,424,364,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra309.jpg 44,13,239,177,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra23.jpg 60,198,433,471,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1195.jpg 46,64,198,180,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra124.jpg 100,116,403,372,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1004.jpg 164,81,819,557,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr440.jpg 74,40,235,143,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train533.jpg 15,50,120,142,1 121,101,224,175,1 204,33,271,120,1 112,3,199,78,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1147.jpg 777,661,1557,1240,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1846.jpg 45,27,223,166,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1248.jpg 22,15,241,166,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1561.jpg 42,40,228,134,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai678.jpg 60,46,232,177,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1470.jpg 64,27,241,140,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1232.jpg 62,20,251,165,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1487.jpg 43,42,217,154,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0376.jpg 81,59,217,176,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1448.jpg 61,42,202,158,4 13,1,138,36,4 4,38,60,153,4 135,3,234,80,4 202,103,273,166,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1022.jpg 172,138,879,634,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train559.jpg 45,37,236,182,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1434.jpg 36,8,129,60,4 77,77,237,162,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1139.jpg 31,34,767,568,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train380.jpg 57,12,285,158,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1173.jpg 40,24,221,164,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1586.jpg 1,42,166,153,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai22.jpg 212,42,723,355,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra331.jpg 73,57,196,135,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1878.jpg 53,14,234,174,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te2106.jpg 46,26,247,154,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te687.jpg 58,42,208,148,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai2009.jpg 344,63,502,211,3 618,205,758,333,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1224.jpg 13,56,126,145,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes666.jpg 44,46,194,181,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0085.jpg 41,174,780,465,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes419.jpg 112,45,253,125,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train286.jpg 127,199,343,367,0 353,138,540,233,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1234.jpg 63,15,239,170,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1810.jpg 355,472,869,801,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0937.jpg 113,12,329,261,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test363.jpg 58,15,251,171,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te818.jpg 33,8,410,318,2 567,204,710,328,2 482,109,595,203,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2161.jpg 177,611,766,943,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1511.jpg 5,4,272,147,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1635.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes981.jpg 32,2,229,174,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test211.jpg 72,166,672,519,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai923.jpg 47,110,626,478,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes891.jpg 199,141,361,278,2 241,297,433,473,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1596.jpg 31,48,294,193,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1755.jpg 54,120,527,589,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1268.jpg 76,5,259,183,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1591.jpg 2,48,225,215,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train1491.jpg 18,33,185,160,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1903.jpg 30,29,230,175,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te153.jpg 240,36,615,348,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai725.jpg 41,29,208,146,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra324.jpg 41,4,246,159,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1373.jpg 77,264,333,540,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te613.jpg 59,42,221,148,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1986.jpg 234,142,626,494,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1182.jpg 130,39,212,114,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1769.jpg 173,241,1317,650,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai112.jpg 52,32,517,312,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t515.jpg 10,18,259,172,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes872.jpg 36,165,515,533,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai312.jpg 38,38,228,153,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train247.jpg 210,71,510,320,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1030.jpg 216,161,597,530,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr98.jpg 140,57,531,411,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra186.jpg 117,88,449,348,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1017.jpg 21,87,329,300,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0603.jpg 8,141,179,238,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes224.jpg 74,126,348,388,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1000.jpg 38,14,325,269,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes130.jpg 257,171,736,476,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1674.jpg 4,18,58,66,4 60,11,128,76,4 53,88,128,163,4 1,84,46,146,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1071.jpg 141,105,726,467,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1365.jpg 218,229,935,690,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1743.jpg 432,647,1075,1364,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1660.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1323.jpg 121,34,370,315,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/2137.jpg 207,395,1070,861,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train592.jpg 40,39,204,120,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1815.jpg 357,479,1206,940,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1699.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1535.jpg 12,38,183,176,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te637.jpg 29,12,227,168,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1060.jpg 160,233,817,445,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t830.jpg 314,184,1183,598,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1350.jpg 94,60,261,170,3 1,1,118,74,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test29.jpg 197,70,694,432,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes2106.jpg 46,26,247,154,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2083.jpg 24,35,262,156,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2040.jpg 1,7,83,86,4 98,14,188,92,4 204,20,259,99,4 155,99,256,194,4 24,97,127,192,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test295.jpg 835,528,2796,2309,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t838.jpg 98,37,515,395,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test1019.jpg 166,120,699,512,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train870.jpg 184,175,792,616,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t370.jpg 63,32,227,125,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr29.jpg 197,70,694,432,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/1664.jpg 40,40,226,156,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes1303.jpg 1,133,768,964,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes750.jpg 88,23,206,110,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test292.jpg 121,161,684,633,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/0282.jpg 150,212,592,440,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes606.jpg 119,83,221,163,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train65.jpg 205,93,512,385,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1415.jpg 172,147,1145,795,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1040.jpg 122,43,526,334,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai1889.jpg 5,14,217,199,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1869.jpg 68,41,264,163,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai390.jpg 98,45,252,143,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1717.jpg
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te12.jpg 155,109,559,442,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai861.jpg 39,189,313,397,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test222.jpg 113,6,636,311,0
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1586.jpg 1,42,166,153,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/te1258.jpg 62,30,237,169,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1036.jpg 129,64,599,405,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai436.jpg 32,45,191,152,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t1063.jpg 210,214,797,604,3
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tra1021.jpg 443,106,1280,825,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tr1390.jpg 16,66,381,385,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/tes961.jpg 13,27,241,186,2
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/test2028.jpg 23,34,256,174,4
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/trai547.jpg 19,27,124,146,1 145,34,260,155,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/t299.jpg 108,17,241,130,1
+/home/student22/deep_learning2/YOLOV4_sound/VOCdevkit/VOC2007/JPEGImages/train429.jpg 29,8,234,158,1

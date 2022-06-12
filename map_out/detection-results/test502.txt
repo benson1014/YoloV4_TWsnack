@@ -1,0 +1,5 @@
+Rouzaofun 0.3022 42 52 187 148
+Rouzaofun 0.0023 18 21 204 172
+Rice_with_Shredded_Chicken 0.0022 169 0 257 120
+migao 0.2102 169 0 257 120
+wagui 0.0012 30 197 153 230

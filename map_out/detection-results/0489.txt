@@ -1,0 +1,6 @@
+Rouzaofun 0.0975 3 31 217 160
+Rouzaofun 0.0348 26 31 189 115
+Rouzaofun 0.0013 40 41 171 92
+Rouzaofun 0.0010 -12 41 135 181
+Rouzaofun 0.0010 50 30 187 77
+wagui 0.0083 -8 1 90 45

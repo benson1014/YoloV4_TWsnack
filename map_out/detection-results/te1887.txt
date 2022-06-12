@@ -1,0 +1,7 @@
+Kongrou 0.0020 35 13 219 182
+Rouzaofun 0.0018 35 13 219 182
+Rice_with_Shredded_Chicken 0.7710 9 17 243 185
+Rice_with_Shredded_Chicken 0.0203 34 47 173 195
+migao 0.0015 20 14 198 183
+migao 0.0013 0 36 5 132
+wagui 0.0021 35 13 219 182

@@ -1,0 +1,2 @@
+Rice_with_Shredded_Chicken 42 133 566 631
+Rice_with_Shredded_Chicken 844 359 1047 508
